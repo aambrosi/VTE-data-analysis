@@ -1,6 +1,4 @@
-# Venous-thromboembolism-data-analysis
-
-Whole blood gene expression profiles distinguish clinical phenotypes of venous thromboembolism.
+# Whole blood gene expression profiles distinguish clinical phenotypes of venous thromboembolism
 
 Dataset and description are available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48000 
 
