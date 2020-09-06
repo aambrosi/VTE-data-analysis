@@ -1,11 +1,8 @@
-# Whole blood gene expression profiles distinguish clinical phenotypes of venous thromboembolism
+# Data Analysis and Exploration: a research project on Venous Thromboembolism
 
 Dataset and description are available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48000 
-
 Study from https://doi.org/10.1016/j.thromres.2015.02.003
 
-## Summary 
-"Recurrent venous thromboembolism (VTE) occurs infrequently following a provoked event but occurs in up to 30% of individuals following an initial unprovoked event. We studied 134 patients with VTE separated into 3 groups: (1) ‘low-risk’ patients had ≥1 provoked VTE; (2) ‘moderate-risk’ patients had no more than 1 unprovoked VTE; (3) ‘high-risk’ patients had ≥2 unprovoked VTE. 44 individuals with no history of VTE were enrolled as healthy controls. Consented individuals were enrolled at 4 medical centers in the US. Total RNA from whole blood was isolated and hybridized to Illumina HT-12 V4 Beadchips to assay whole genome expression. Using class prediction analysis, we distinguished high-risk patients from healthy controls with good receiver operating curve characteristics (AUC=0.88). We also distinguished high-risk from low-risk individuals, moderate-risk individuals from healthy controls, and low-risk individuals from healthy controls with AUC’s of 0.72, 0.77 and 0.72, respectively. Using differential expression analysis, we identified genes relevant to coagulation, immune response and vascular biology, such as SELP and CD46, which were differentially expressed in at least two comparisons. Neither approach distinguished the moderate-risk patients from the high-risk or low-risk groups. Gene expression profiles may provide insights into biological mechanisms associated with patients at risk for recurrent VTE. Prospective studies are needed to validate these findings."
-  	
-## Overall design
-"This study includes a total of 218 samples/individuals (in 5 groups; APS, high-risk VTE, moderate-risk VTE, low-risk VTE and healthy-controls). Samples in which the percent of probes present was 15% or less (n=51) were excluded leaving 167 samples. The data for these 167 samples were normalized together. However, this record represents the 132 individual samples in the following groups; high-risk (n=40); moderate-risk (n=33); low-risk (n=34); and healthy controls (n=25). The 35 samples in APS group are represented in GSE48001."
+## Abstract
+This project is based on the study "Whole blood gene expression profiles distinguish clinical phenotypes of venous thromboembolism" of Deborah A. Lewis, Sunil Suchindran, Michele G. Beckman, W. Craig Hooper, Althea M. Grant et al. published on Thrombosis Research in 2015.
+The goal of the project is to use the dataset provided by the aforementioned research and apply models of machine learning to understand if there is the possibility of predict conditions of venous thromboembolism based on gene expression.
